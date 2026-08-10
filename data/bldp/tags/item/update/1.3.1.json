@@ -1,0 +1,24 @@
+{
+    "values": [
+        "oak_slab",
+        "spruce_slab",
+        "birch_slab",
+        "jungle_slab",
+        "writable_book",
+        "written_book",
+        "emerald_ore",
+        "emerald",
+        "ender_chest",
+        "sandstone_stairs",
+        "enchanted_golden_apple",
+        "tripwire_hook",
+        "emerald_block",
+        "spruce_stairs",
+        "birch_stairs",
+        "jungle_stairs",
+        "oak_wood",
+        "spruce_wood",
+        "birch_wood",
+        "jungle_wood"
+    ]
+}

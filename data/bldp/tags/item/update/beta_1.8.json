@@ -1,0 +1,31 @@
+{
+    "values": [
+        "stone_bricks",
+        "cracked_stone_bricks",
+        "mossy_stone_bricks",
+        "infested_stone",
+        "infested_cobblestone",
+        "infested_stone_bricks",
+        "brick_slab",
+        "stone_brick_slab",
+        "brick_stairs",
+        "stone_brick_stairs",
+        "glass_pane",
+        "iron_bars",
+        "oak_fence_gate",
+        "vine",
+        "brown_mushroom_block",
+        "red_mushroom_block",
+        "mushroom_stem",
+        "pumpkin_seeds",
+        "melon_seeds",
+        "melon",
+        "melon_slice",
+        "chicken",
+        "cooked_chicken",
+        "beef",
+        "cooked_beef",
+        "rotten_flesh",
+        "ender_pearl"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "values": [
+        "cherry_button",
+        "cherry_door",
+        "cherry_fence",
+        "cherry_fence_gate",
+        "cherry_hanging_sign",
+        "cherry_leaves",
+        "cherry_log",
+        "cherry_planks",
+        "cherry_pressure_plate",
+        "cherry_sapling",
+        "cherry_sign",
+        "cherry_slab",
+        "cherry_stairs",
+        "cherry_trapdoor",
+        "cherry_wall_hanging_sign",
+        "cherry_wall_sign",
+        "cherry_wood",
+        "decorated_pot",
+        "pink_petals",
+        "potted_cherry_sapling",
+        "potted_torchflower",
+        "stripped_cherry_log",
+        "stripped_cherry_wood",
+        "suspicious_sand",
+        "torchflower",
+        "torchflower_crop"
+    ]
+}

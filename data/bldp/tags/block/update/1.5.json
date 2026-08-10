@@ -1,0 +1,21 @@
+{
+    "values": [
+        "nether_quartz_ore",
+        "redstone_block",
+        "daylight_detector",
+        "hopper",
+        "comparator",
+        "trapped_chest",
+        "light_weighted_pressure_plate",
+        "heavy_weighted_pressure_plate",
+        "quartz_block",
+        "chiseled_quartz_block",
+        "quartz_pillar",
+        "quartz_slab",
+        "quartz_stairs",
+        "activator_rail",
+        "dropper",
+        "smooth_sandstone",
+        "smooth_quartz"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "values": [
+        "redstone_ore",
+        "redstone_torch",
+        "oak_pressure_plate",
+        "stone_pressure_plate",
+        "stone_button",
+        "lever",
+        "iron_door",
+        "redstone_wall_torch",
+        "redstone_wire"
+    ]
+}

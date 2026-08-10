@@ -1,0 +1,30 @@
+{
+    "values": [
+        "beacon",
+        "command_block",
+        "carrot",
+        "golden_carrot",
+        "potato",
+        "baked_potato",
+        "poisonous_potato",
+        "flower_pot",
+        "item_frame",
+        "oak_button",
+        "cobblestone_wall",
+        "mossy_cobblestone_wall",
+        "map",
+        "creeper_head",
+        "player_head",
+        "skeleton_skull",
+        "wither_skeleton_skull",
+        "zombie_head",
+        "nether_star",
+        "carrot_on_a_stick",
+        "pumpkin_pie",
+        "bat_spawn_egg",
+        "witch_spawn_egg",
+        "anvil",
+        "chipped_anvil",
+        "damaged_anvil"
+    ]
+}

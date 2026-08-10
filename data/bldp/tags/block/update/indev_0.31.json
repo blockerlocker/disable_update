@@ -1,0 +1,11 @@
+{
+    "values": [
+        "torch",
+        "chest",
+        "diamond_ore",
+        "diamond_block",
+        "crafting_table",
+        "fire",
+        "wall_torch"
+    ]
+}

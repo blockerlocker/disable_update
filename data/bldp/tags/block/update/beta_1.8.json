@@ -1,0 +1,26 @@
+{
+    "values": [
+        "stone_bricks",
+        "cracked_stone_bricks",
+        "mossy_stone_bricks",
+        "infested_stone",
+        "infested_cobblestone",
+        "infested_stone_bricks",
+        "brick_slab",
+        "stone_brick_slab",
+        "brick_stairs",
+        "stone_brick_stairs",
+        "glass_pane",
+        "iron_bars",
+        "oak_fence_gate",
+        "vine",
+        "brown_mushroom_block",
+        "red_mushroom_block",
+        "mushroom_stem",
+        "melon",
+        "melon_stem",
+        "pumpkin_stem",
+        "attached_melon_stem",
+        "attached_pumpkin_stem"
+    ]
+}

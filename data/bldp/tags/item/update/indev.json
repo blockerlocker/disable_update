@@ -1,0 +1,26 @@
+{
+    "values": [
+        "farmland",
+        "furnace",
+        "wooden_hoe",
+        "stone_hoe",
+        "iron_hoe",
+        "golden_hoe",
+        "diamond_hoe",
+        "bread",
+        "wheat_seeds",
+        "wheat",
+        "porkchop",
+        "cooked_porkchop",
+        "flint",
+        "golden_helmet",
+        "golden_chestplate",
+        "golden_leggings",
+        "golden_boots",
+        "diamond_helmet",
+        "diamond_chestplate",
+        "diamond_leggings",
+        "diamond_boots",
+        "painting"
+    ]
+}
