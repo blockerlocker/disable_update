@@ -1,0 +1,1 @@
+scoreboard players operation #game_timer operator = #disable_update_time operator
