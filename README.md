@@ -1,7 +1,11 @@
 Made for Minecraft 26.3
 
-When the player breaks a block, a random update is disabled. This means any blocks, items, or mobs/entities that were added in that update will disappear when the player is nearby.
+Every 30 seconds, a random update is removed from the game, and all blocks, items, and entities from that update are removed from the world and the player's inventory.
 
-Can be reset with `/function disable_update:reset`
+| Command | Description |
+| --- | --- |
+| `/function disable_update:start` | Start the game. |
+| `/function disable_update:stop` | End the game. |
+| `/function disable_update:set_time {ticks:<time>}` | Customize the time between update removals to be something other than 30 seconds. |
 
-If you're curious about how this works, it utilizes the `update_tags` generator from my [personal data pack library, bldp](https://github.com/blockerlocker/bldp) to create Block, Item, and Entity Type tags for every single update.
+If you're curious about how this works, it utilizes the `update_tags` generator from my [personal data pack library, bldp](https://github.com/blockerlocker/bldp) to create Block, Item, and Entity Type tags for every single update. As for the timer, it's just a basic scoreboard that ticks up and get's reformatted into a time code using [my data pack library score_time](https://github.com/blockerlocker/score_time).
