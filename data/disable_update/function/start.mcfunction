@@ -1,6 +1,10 @@
 data modify storage disable_update:versions disabled set value []
 data modify storage disable_update:versions enabled set from storage disable_update:versions all
 
+scoreboard players reset @a disable_update_died
+
+function zzz:disable_update/add_bossbar
+
 data modify storage disable_update:state all.active set value true
 
 function zzz:disable_update/reset_timer

@@ -8,4 +8,5 @@ tellraw @a {text:"Game stopped!",color:green}
 execute as @a at @s run playsound ui.button.click ui @s
 title @a actionbar ""
 title @a subtitle ""
-bossbar set disable_update:timer players
+
+bossbar remove disable_update:timer
