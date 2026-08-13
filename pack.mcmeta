@@ -2,6 +2,6 @@
   "pack": {
     "description": "Disables all blocks and items from random updates.",
     "min_format": 115,
-    "max_format": 115
+    "max_format": 116
   }
 }
